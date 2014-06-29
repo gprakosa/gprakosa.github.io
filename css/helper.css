@@ -17,3 +17,12 @@ img.emoji {
 	  line-height: 1.5em;
 	}
 }
+@media (max-width: 767px) and (min-width: 481px) {
+	.site {
+	  font-size: 115%;
+	  text-align: justify;
+	  width: 25em;
+	  margin: 3em auto 2em;
+	  line-height: 1.5em;
+	}
+}
