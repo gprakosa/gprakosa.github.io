@@ -1,4 +1,4 @@
 name: Godhot Prakosa
 markdown: redcarpet
 pygments: true
-emoji_dir: images/emoji
+emoji_dir: ./images/emoji
