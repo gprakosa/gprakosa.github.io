@@ -1,0 +1,19 @@
+/* emoji */
+img.emoji {
+	vertical-align: middle;
+	height: 20px;
+	width: 20px;
+}
+
+/* viewport */
+@media (max-width: 767px) {
+	.site {
+	  font-size: 115%;
+	  text-align: justify;
+	  /* The width Site Class's rule prevent viewport to be responsive. You may override this */
+	  /* width: 42em; */
+	  width: 18em;
+	  margin: 3em auto 2em;
+	  line-height: 1.5em;
+	}
+}
