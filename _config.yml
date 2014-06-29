@@ -4,4 +4,4 @@ pygments: true
 gems:
   - jemoji
 emoji:
-  src: "/images/emoji"
+  src: "/images"
