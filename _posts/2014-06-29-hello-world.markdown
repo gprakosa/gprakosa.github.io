@@ -6,9 +6,9 @@ date:   2014-06-29 07:27:02
 
 _It's always good and fun to start with "Bismillah" and the "Hello World!"_
 
-Halo Dunia. :octocat:
+Halo Dunia :octocat:
 
-Akhirnya jadi juga buat blog di :octocat:GitHub. Tempat hostingnya buuaaanyak --kalo gak boleh bilang 'semua'-- projek-projek Open Source yang keren-keren. :+1:
+Akhirnya jadi juga buat blog di :octocat:GitHub. Tempat hostingnya buuaaanyak --kalo gak boleh bilang 'semua'-- projek-projek Open Source yang keren-keren.
 
 Nah, mungkin kalau ada yang dalam waktu dekat ini kepikiran mau buat blog bisa coba buatnya di GitHub, sebagai alternatif dari [Wordpress](https://wordpress.com/) _(our living legend)_ dan Blogger/Blogspot, atau yang sekarang lagi mulai trend di Indonesia, [Medium](https://medium.com/).
 
