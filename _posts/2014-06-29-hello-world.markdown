@@ -6,7 +6,7 @@ date:   2014-06-29 07:27:02
 
 _It's always good and fun to start with "Bismillah" and the "Hello World!"_
 
-Halo Dunia. :smile:
+Halo Dunia. :octocat:
 
 Akhirnya jadi juga buat blog di :octocat:GitHub. Tempat hostingnya buuaaanyak --kalo gak boleh bilang 'semua'-- projek-projek Open Source yang keren-keren. :+1:
 
